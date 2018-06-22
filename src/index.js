@@ -1,0 +1,1 @@
+inport './index.css';
